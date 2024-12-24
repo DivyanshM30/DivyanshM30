@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Java and DSA.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me devdivyansh17063010@gmail.com
+- 📫 How to reach me divyanshm.code@gmail.com
 - My LinkedIn : https://www.linkedin.com/in/divyanshmishra3/
 - ⚡ Fun fact: ...
 
