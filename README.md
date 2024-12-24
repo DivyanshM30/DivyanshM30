@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me devdivyansh17063010@gmail.com
-- My LinkedIn :
+- My LinkedIn : https://www.linkedin.com/in/divyanshmishra3/
 - ⚡ Fun fact: ...
 
 <!---
